@@ -1,0 +1,15 @@
+.btn-main{
+  background-color: rgb(202, 170, 231);
+  color: #f8fdff;
+  padding: 12px 24px;
+  border: none;
+  font-weight: bold;
+  border-radius: 10px;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+  }
+
+.btn-main:hover {
+  opacity: 1;
+  background: rgb(122, 95, 223);
+}

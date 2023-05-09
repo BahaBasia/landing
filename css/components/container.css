@@ -1,0 +1,23 @@
+
+
+.container-hero {
+width: 800px;
+min-height: 500px;
+margin: 16px auto;
+}
+
+
+.container-main h2{
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0 px;
+  color: #6D5C40;
+  text-align: center;
+
+}
+.flex-row{
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  flex-wrap: wrap;
+}

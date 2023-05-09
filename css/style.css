@@ -1,0 +1,26 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+@import url('../css/components/banner.css');
+@import url('./components/button.css');
+@import url("../css/components/container.css");
+@import url("../css/components/footer.css");
+@import url("../css/components/cards.css");
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: DM Serif Display;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
